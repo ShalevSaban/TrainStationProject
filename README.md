@@ -6,7 +6,9 @@ The purpose of the system:
 To optimize the train traffic (preventing delays), adjusting the number of passengers to the train route / wagons, according to demand.
 
 
-General description:
+
+
+*General description:*
 
 Train station has a name,adress and platforms.Every platform has a platform number.
 Route has route number(starts with 100,+100 for opposite route number),origin train station,destination train station,day and scheduled time for departure.
@@ -23,3 +25,6 @@ Stopover has train station name and route number.
 
 
 
+
+
+![ERD](https://user-images.githubusercontent.com/74130405/144917797-fc51ddde-dec3-4006-a8d5-01e23f035459.PNG)
