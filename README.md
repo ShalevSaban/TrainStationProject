@@ -27,3 +27,4 @@ In addition,the train driver has years of experience and the conductor has the n
 Stopover has train station name and route number.
 
 
+![ERD](https://user-images.githubusercontent.com/74130405/145001198-febebdbf-7a8e-449f-bc46-d44734afe6b5.PNG)
